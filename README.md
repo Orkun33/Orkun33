@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Orkun
+- 👀 I’m interested in Cyber Security and Computer Networking.
+- 🌱 I’m currently studying for an exam called "YKS" so I have a little amount of time to spend with my interests.
+- 💞️ I’m aiming to take part in a Cyber Security Corporation as a Pentester.
+- 📫 You can contact me with my e-mail adress, szdfaergr@gmail.com or ork.74@hotmail.com
